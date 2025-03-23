@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Backend ignores
+backend/venv/
+backend/.env
+
+# Frontend ignores
+frontend/node_modules/
+frontend/.next/
